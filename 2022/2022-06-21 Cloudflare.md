@@ -2,14 +2,13 @@
 
 *A change to the network configuration in those locations caused an outage* \[1]
 
-## Impact
-
-many affected websites
-
 ## Duration
 
 1h 15min
 
+## Impact
+
+many affected websites
 
 ## Media
 
