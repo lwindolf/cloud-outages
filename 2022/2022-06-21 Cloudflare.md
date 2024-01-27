@@ -1,7 +1,17 @@
----
-impact: many affected websites
-duration: 1h 15min
-cause: "*A change to the network configuration in those locations caused an outage*"
-links:
-- https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022
----
+## Root Cause
+
+*A change to the network configuration in those locations caused an outage* \[1]
+
+## Impact
+
+many affected websites
+
+## Duration
+
+1h 15min
+
+
+## Media
+
+- \[1] https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022
+
