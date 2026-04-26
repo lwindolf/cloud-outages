@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/lwindolf/cloud-outages</id>
     <title>Cloud Outages</title>
-    <updated>2026-04-26T21:57:12.187Z</updated>
+    <updated>2026-04-26T22:20:19.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/lwindolf/cloud-outages"/>
     <subtitle>Recent major cloud outages. New additions to the 10+ years outage index.</subtitle>
@@ -23,7 +23,7 @@
 </ul>
 <h2 id="duration">Duration</h2>
 <p>5h</p>
-<h2 id="links">Links</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://blog.cloudflare.com/cloudflare-outage-february-20-2026/">https://blog.cloudflare.com/cloudflare-outage-february-20-2026/</a></li>
 </ul>]]></summary>
@@ -44,7 +44,7 @@
 </ul>
 <h2 id="duration">Duration</h2>
 <p>20h</p>
-<h2 id="links">Links</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=p_HKW7qbwXs&list=PLmsFUfdnGr3xomlYbZPAYTtFdkcvbv2ye&index=3">https://www.youtube.com/watch?v=p_HKW7qbwXs&list=PLmsFUfdnGr3xomlYbZPAYTtFdkcvbv2ye&index=3</a></li>
 <li>MS tracking id "_SVS-5_G"</li>
@@ -66,7 +66,7 @@
 </ul>
 <h2 id="duration">Duration</h2>
 <p>25min</p>
-<h2 id="links">Links</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://blog.cloudflare.com/5-december-2025-outage/">https://blog.cloudflare.com/5-december-2025-outage/</a></li>
 </ul>]]></summary>
@@ -78,16 +78,21 @@
         <updated>2025-11-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
-<li>faulty configuration replicated globally <a href="https://blog.cloudflare.com/18-november-2025-outage/">^2</a></li>
+<li>faulty configuration replicated globally</li>
 </ul>
 <h2 id="impact">Impact</h2>
 <ul>
 <li>global</li>
-<li>services affected: Cloudflare Sites and Services (Access, Bot Management, CDN/Cache, Dashboard, Firewall, Network, WARP, Workers) <a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7">^1</a></li>
+<li>services affected: Cloudflare Sites and Services (Access, Bot Management, CDN/Cache, Dashboard, Firewall, Network, WARP, Workers)</li>
 <li>ChatGPT, X, many websites</li>
 </ul>
 <h2 id="duration">Duration</h2>
-<p>9,5h</p>]]></summary>
+<p>9,5h</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://www.cloudflarestatus.com/incidents/8gmgl950y3h7">https://www.cloudflarestatus.com/incidents/8gmgl950y3h7</a></li>
+<li><a href="https://blog.cloudflare.com/18-november-2025-outage/">https://blog.cloudflare.com/18-november-2025-outage/</a></li>
+</ul>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-10-20 AWS]]></title>
@@ -96,17 +101,25 @@
         <updated>2025-10-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
-<li>DNS problems with DynamoDB in us-east1 <a href="https://www.cnbc.com/2025/10/20/amazon-web-services-outage-takes-down-major-websites.html">^1</a></li>
-<li>HA realized via DNS entries, wrong updating of DNS caused DynamoDB to be unavailable [^3]</li>
+<li>DNS problems with DynamoDB in us-east1</li>
+<li>HA realized via DNS entries, wrong updating of DNS caused DynamoDB to be unavailable</li>
 </ul>
 <h2 id="impact">Impact</h2>
 <ul>
 <li>many gaming platforms down</li>
 </ul>
 <h2 id="duration">Duration</h2>
-<p>3h [^3]
-15h <a href="https://www.techtarget.com/searchCloudComputing/feature/Cloud-outages-expected-to-be-the-new-normal-in-2026">^4</a></p>
-<p>[^3]: <a href="https://aws.amazon.com/message/101925/">https://aws.amazon.com/message/101925/</a> AWS Post mortem</p>]]></summary>
+<ul>
+<li>3h (according to post mortem)</li>
+<li>15h (according to techtarget)</li>
+</ul>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://tech.slashdot.org/story/25/10/20/140248/aws-outage-takes-thousands-of-websites-offline-for-three-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed">https://tech.slashdot.org/story/25/10/20/140248/aws-outage-takes-thousands-of-websites-offline-for-three-hours?utm_source=rss1.0mainlinkanon&utm_medium=feed</a> </li>
+<li><a href="https://www.cnbc.com/2025/10/20/amazon-web-services-outage-takes-down-major-websites.html">https://www.cnbc.com/2025/10/20/amazon-web-services-outage-takes-down-major-websites.html</a> </li>
+<li><a href="https://aws.amazon.com/message/101925/">https://aws.amazon.com/message/101925/</a> AWS Post mortem</li>
+<li><a href="https://www.techtarget.com/searchCloudComputing/feature/Cloud-outages-expected-to-be-the-new-normal-in-2026">https://www.techtarget.com/searchCloudComputing/feature/Cloud-outages-expected-to-be-the-new-normal-in-2026</a></li>
+</ul>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-07-09 Outlook]]></title>
@@ -115,15 +128,20 @@
         <updated>2025-07-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
-<li>outlook.com <a href="https://www.computerworld.com/article/4020870/microsofts-19-hour-outlook-outage-exposes-fragility-in-cloud-infrastructure.html">^1</a></li>
+<li>outlook.com</li>
 <li>unable to access virtual mailboxes</li>
 <li>sign in issues</li>
 </ul>
 <h2 id="root-cause">Root Cause</h2>
-<p><em>A recent service update to an authentication component unintentionally prevented access for a subset of users, resulting in intermittent service unavailability.</em> [^3]</p>
+<p><em>A recent service update to an authentication component unintentionally prevented access for a subset of users, resulting in intermittent service unavailability.</em></p>
 <h2 id="duration">Duration</h2>
 <p>19-21h</p>
-<p>[^3]: Office 365 incident number EX1112414</p>]]></summary>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://slashdot.org/story/25/07/12/1730242/microsoft-outlook-malfunctioned-for-over-21-hours-wednesday-and-thursday">https://slashdot.org/story/25/07/12/1730242/microsoft-outlook-malfunctioned-for-over-21-hours-wednesday-and-thursday</a></li>
+<li><a href="https://www.computerworld.com/article/4020870/microsofts-19-hour-outlook-outage-exposes-fragility-in-cloud-infrastructure.html">https://www.computerworld.com/article/4020870/microsofts-19-hour-outlook-outage-exposes-fragility-in-cloud-infrastructure.html</a></li>
+<li>Office 365 incident number EX1112414</li>
+</ul>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-06-15 Heroku]]></title>
@@ -132,10 +150,14 @@
         <updated>2025-06-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
-<li>automated OS Update on production took networking routes down <a href="https://www.heroku.com/blog/summary-of-june-10-outage/">^1</a></li>
+<li>automated OS Update on production took networking routes down</li>
 </ul>
 <h2 id="duration">Duration</h2>
-<p>23h</p>]]></summary>
+<p>23h</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://www.heroku.com/blog/summary-of-june-10-outage/">https://www.heroku.com/blog/summary-of-june-10-outage/</a></li>
+</ul>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-06-12 Google Cloud]]></title>
@@ -146,7 +168,7 @@
 <ul>
 <li>Many Google cloud locations</li>
 <li>Secondary effects caused by Cloudflare being affected</li>
-<li><em>Google Cloud, Google Workspace and Google Security Operations products experienced increased 503 errors in external API requests, impacting customers.</em> <a href="https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW">^1</a></li>
+<li><em>Google Cloud, Google Workspace and Google Security Operations products experienced increased 503 errors in external API requests, impacting customers.</em></li>
 </ul>
 <h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -157,6 +179,10 @@
 <ul>
 <li>overall 7h</li>
 <li>most regions fixed after 2h</li>
+</ul>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW">https://status.cloud.google.com/incidents/ow5i3PPK96RduMcb1SsW</a></li>
 </ul>]]></summary>
     </entry>
     <entry>
@@ -166,10 +192,14 @@
         <updated>2025-05-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
-<li>fire in data center PDX11 <a href="https://www.wired.com/story/elon-musk-x-datacenter-fire/">^1</a></li>
+<li>fire in data center PDX11</li>
 </ul>
 <h2 id="duration">Duration</h2>
-<p>2,5h</p>]]></summary>
+<p>2,5h</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://www.wired.com/story/elon-musk-x-datacenter-fire/">https://www.wired.com/story/elon-musk-x-datacenter-fire/</a></li>
+</ul>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-01-08 Microsoft Azure]]></title>
@@ -178,10 +208,14 @@
         <updated>2025-01-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
-<li>A networking configuration change in East US 2 created issues across multiple Azure services. <a href="https://www.techtarget.com/searchCloudComputing/feature/Cloud-outages-expected-to-be-the-new-normal-in-2026">^1</a></li>
+<li>A networking configuration change in East US 2 created issues across multiple Azure services.</li>
 </ul>
 <h2 id="duration">Duration</h2>
-<p>50h</p>]]></summary>
+<p>50h</p>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://www.techtarget.com/searchCloudComputing/feature/Cloud-outages-expected-to-be-the-new-normal-in-2026">https://www.techtarget.com/searchCloudComputing/feature/Cloud-outages-expected-to-be-the-new-normal-in-2026</a></li>
+</ul>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024-07-19 Crowdstrike]]></title>
@@ -199,9 +233,9 @@
 <ul>
 <li>hours to days due to the need to recover affected end user systems manually</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
-<li>[1] <a href="https://arstechnica.com/information-technology/2024/07/major-outages-at-crowdstrike-microsoft-leave-the-world-with-bsods-and-confusion/">https://arstechnica.com/information-technology/2024/07/major-outages-at-crowdstrike-microsoft-leave-the-world-with-bsods-and-confusion/</a></li>
+<li><a href="https://arstechnica.com/information-technology/2024/07/major-outages-at-crowdstrike-microsoft-leave-the-world-with-bsods-and-confusion/">https://arstechnica.com/information-technology/2024/07/major-outages-at-crowdstrike-microsoft-leave-the-world-with-bsods-and-confusion/</a></li>
 </ul>]]></summary>
     </entry>
     <entry>
@@ -210,7 +244,6 @@
         <link href="https://github.com/lwindolf/cloud-outages/2024/2024/2024-07-18 Microsoft Azure.md"/>
         <updated>2024-07-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="root-cause">Root Cause</h1>
-<p>Quote from [1]</p>
 <p><em>Between 21:40 UTC on 18 July 2024 and 12:15 UTC on 19 July 2024, customers may have experienced issues with multiple Azure 
 services in the Central US region due to an Azure Storage availability event. This issue affected Virtual Machine (VM) 
 availability, which caused downstream impact on multiple Azure services, including failures of service management operations 
@@ -223,9 +256,9 @@ and connectivity or availability of services. Services with dependencies on the 
 <ul>
 <li>~14h</li>
 </ul>
-<h1 id="links">Links</h1>
+<h1 id="media">Media</h1>
 <ul>
-<li>[1] <a href="https://www.techradar.com/pro/microsoft-says-its-cloud-services-are-back-up-after-major-outage">https://www.techradar.com/pro/microsoft-says-its-cloud-services-are-back-up-after-major-outage</a></li>
+<li><a href="https://www.techradar.com/pro/microsoft-says-its-cloud-services-are-back-up-after-major-outage">https://www.techradar.com/pro/microsoft-says-its-cloud-services-are-back-up-after-major-outage</a></li>
 </ul>]]></summary>
     </entry>
     <entry>
@@ -241,11 +274,11 @@ and connectivity or availability of services. Services with dependencies on the 
 </ul>
 <h2 id="duration">Duration</h2>
 <p>%</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
-<li>[1] [<a href="https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud](Joint">https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud](Joint</a> Statement Unisuper / Google)</li>
-<li>[2] <a href="https://danielcompton.net/google-cloud-unisuper">https://danielcompton.net/google-cloud-unisuper</a></li>
-<li>[3] <a href="https://arstechnica.com/gadgets/2024/05/google-cloud-accidentally-nukes-customer-account-causes-two-weeks-of-downtime/">https://arstechnica.com/gadgets/2024/05/google-cloud-accidentally-nukes-customer-account-causes-two-weeks-of-downtime/</a></li>
+<li>[<a href="https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud](Joint">https://www.unisuper.com.au/about-us/media-centre/2024/a-joint-statement-from-unisuper-and-google-cloud](Joint</a> Statement Unisuper / Google)</li>
+<li><a href="https://danielcompton.net/google-cloud-unisuper">https://danielcompton.net/google-cloud-unisuper</a></li>
+<li><a href="https://arstechnica.com/gadgets/2024/05/google-cloud-accidentally-nukes-customer-account-causes-two-weeks-of-downtime/">https://arstechnica.com/gadgets/2024/05/google-cloud-accidentally-nukes-customer-account-causes-two-weeks-of-downtime/</a></li>
 </ul>]]></summary>
     </entry>
     <entry>
@@ -257,13 +290,13 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>?</p>
 <h2 id="impact">Impact</h2>
 <ul>
-<li>"impacted multiple downstream providers, as well as Rackspace customers within multiple regions including the U.S., Japan, Vietnam, Spain, Canada, Germany, Singapore, France, the Netherlands, the U.K., Brazil, and South Africa" [1]</li>
+<li>"impacted multiple downstream providers, as well as Rackspace customers within multiple regions including the U.S., Japan, Vietnam, Spain, Canada, Germany, Singapore, France, the Netherlands, the U.K., Brazil, and South Africa"</li>
 </ul>
 <h2 id="duration">Duration</h2>
 <p>14min</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
-<li>[1] <a href="https://www.networkworld.com/article/2071380/2024-global-network-outage-report-and-internet-health-check.html">https://www.cbsnews.com/news/microsoft-teams-outages-block-limit-user-access/</a></li>
+<li><a href="https://www.networkworld.com/article/2071380/2024-global-network-outage-report-and-internet-health-check.html">https://www.cbsnews.com/news/microsoft-teams-outages-block-limit-user-access/</a></li>
 </ul>]]></summary>
     </entry>
     <entry>
@@ -273,14 +306,14 @@ and connectivity or availability of services. Services with dependencies on the 
         <updated>2024-01-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
-<li>"a networking issue impacting a portion of the Teams service" [2]</li>
+<li>"a networking issue impacting a portion of the Teams service"</li>
 </ul>
 <h2 id="duration">Duration</h2>
 <p>2,5h</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
-<li>[1] <a href="https://www.cbsnews.com/news/microsoft-teams-outages-block-limit-user-access/">https://www.cbsnews.com/news/microsoft-teams-outages-block-limit-user-access/</a></li>
-<li>[2] <a href="https://x.com/MSFT365Status/status/1750923016408531454?s=20">https://x.com/MSFT365Status/status/1750923016408531454?s=20</a></li>
+<li><a href="https://www.cbsnews.com/news/microsoft-teams-outages-block-limit-user-access/">https://www.cbsnews.com/news/microsoft-teams-outages-block-limit-user-access/</a></li>
+<li><a href="https://x.com/MSFT365Status/status/1750923016408531454?s=20">https://x.com/MSFT365Status/status/1750923016408531454?s=20</a></li>
 </ul>]]></summary>
     </entry>
     <entry>
@@ -294,7 +327,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>2d</p>
 <h2 id="impact">Impact</h2>
 <p>Cloudflare control panel and analytics outage</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/">https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/</a></li>
 </ul>]]></summary>
@@ -310,7 +343,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>8h</p>
 <h2 id="impact">Impact</h2>
 <p>Region West Europe partially down</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://azure.status.microsoft/en-gb/status/history/">https://azure.status.microsoft/en-gb/status/history/</a></li>
 <li><a href="https://www.youtube.com/watch?v=tODJb-Tm_q0">https://www.youtube.com/watch?v=tODJb-Tm_q0</a></li>
@@ -327,7 +360,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>3h</p>
 <h2 id="root-cause">Root Cause</h2>
 <p>Lambda scaling crossing a new threshold hit a functional bug</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://aws.amazon.com/message/061323/">https://aws.amazon.com/message/061323/</a></li>
 </ul>]]></summary>
@@ -346,7 +379,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <li>Cloud region europe-west-9 was offline (one day)</li>
 <li>Zone europe-west-9-a was offline (two weeks)</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY">https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY</a></li>
 </ul>]]></summary>
@@ -362,8 +395,10 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>2h</p>
 <h2 id="root-cause">Root Cause</h2>
 <p>Expired certificate</p>
-<h2 id="links">Links</h2>
-<p><a href="https://blog.cloudflare.com/q2-2023-internet-disruption-summary/">https://blog.cloudflare.com/q2-2023-internet-disruption-summary/</a></p>]]></summary>
+<h2 id="sources">Sources</h2>
+<ul>
+<li><a href="https://blog.cloudflare.com/q2-2023-internet-disruption-summary/">https://blog.cloudflare.com/q2-2023-internet-disruption-summary/</a></li>
+</ul>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-03-09 Datadog]]></title>
@@ -376,7 +411,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>2d</p>
 <h2 id="impact">Impact</h2>
 <p>Service outage</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.crn.com/news/cloud/the-15-biggest-cloud-outages-of-2023?page=5">https://www.crn.com/news/cloud/the-15-biggest-cloud-outages-of-2023?page=5</a></li>
 </ul>]]></summary>
@@ -392,7 +427,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>6h</p>
 <h2 id="impact">Impact</h2>
 <p>Gmail, Youtube, Google Drive partial outage</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.linkedin.com/pulse/recent-cloud-platform-outages-2023-pankaj-kumar-mandal">https://www.linkedin.com/pulse/recent-cloud-platform-outages-2023-pankaj-kumar-mandal</a></li>
 </ul>]]></summary>
@@ -408,7 +443,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>3d</p>
 <h2 id="impact">Impact</h2>
 <p>OCI Vault, API Gateway, Oracle Digital Assistant and OCI Search with OpenSearch</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.networkworld.com/article/3688509/oracle-outages-serve-as-warning-for-companies-relying-on-cloud-technology.html">https://www.networkworld.com/article/3688509/oracle-outages-serve-as-warning-for-companies-relying-on-cloud-technology.html</a></li>
 </ul>]]></summary>
@@ -424,7 +459,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>1h</p>
 <h2 id="impact">Impact</h2>
 <p>World-wide MS Teams outage</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://twitter.com/msft365status/status/1549934141738651648?s=21&t=bq79TBlFzHzpiH_qwB_tVA">https://twitter.com/msft365status/status/1549934141738651648?s=21&t=bq79TBlFzHzpiH_qwB_tVA</a></li>
 <li><a href="https://portal.office.com/adminportal/home?#/servicehealth/:/alerts/TM402718">https://portal.office.com/adminportal/home?#/servicehealth/:/alerts/TM402718</a></li>
@@ -441,7 +476,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>75min</p>
 <h2 id="impact">Impact</h2>
 <p>US East2 connectivity issues</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.networkworld.com/article/971716/aws-suffers-outage-at-its-us-east-2-cloud-region.html">https://www.networkworld.com/article/971716/aws-suffers-outage-at-its-us-east-2-cloud-region.html</a></li>
 </ul>]]></summary>
@@ -457,7 +492,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>2h</p>
 <h2 id="impact">Impact</h2>
 <p>Users unable to send/receive messages</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.thousandeyes.com/blog/internet-report-pulse-update-november-7-2022">https://www.thousandeyes.com/blog/internet-report-pulse-update-november-7-2022</a></li>
 </ul>]]></summary>
@@ -473,7 +508,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>1h</p>
 <h2 id="impact">Impact</h2>
 <p>worldwide, no meetings possible</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.thousandeyes.com/blog/internet-report-pulse-update-september-26-2022">https://www.thousandeyes.com/blog/internet-report-pulse-update-september-26-2022</a></li>
 </ul>]]></summary>
@@ -489,7 +524,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>1h</p>
 <h2 id="impact">Impact</h2>
 <p>Google Search, Google Maps globally unavailable</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.networkworld.com/article/971832/top-10-outages-of-2022.html">https://www.networkworld.com/article/971832/top-10-outages-of-2022.html</a></li>
 </ul>]]></summary>
@@ -505,7 +540,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>20min</p>
 <h2 id="impact">Impact</h2>
 <p>AZ1 of US East2 without connectivity</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.thousandeyes.com/blog/aws-outage-analysis-july-28-2022">https://www.thousandeyes.com/blog/aws-outage-analysis-july-28-2022</a></li>
 </ul>]]></summary>
@@ -521,7 +556,7 @@ and connectivity or availability of services. Services with dependencies on the 
 <p>1h 15min</p>
 <h2 id="impact">Impact</h2>
 <p>many affected websites</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li>[1] <a href="https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022">https://blog.cloudflare.com/cloudflare-outage-on-june-21-2022</a></li>
 </ul>]]></summary>
@@ -539,7 +574,7 @@ product instances were terminated</p>
 Confluence, OpsGenie, JIRA Status page, and other Atlassian Cloud services</p>
 <h2 id="duration">Duration</h2>
 <p>"&gt;14days for some customers"</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.atlassian.com/engineering/april-2022-outage-update">https://www.atlassian.com/engineering/april-2022-outage-update</a></li>
 <li><a href="https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=r">https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=r</a></li>
@@ -556,7 +591,7 @@ Confluence, OpsGenie, JIRA Status page, and other Atlassian Cloud services</p>
 <p>App Store, Maps, TV</p>
 <h2 id="duration">Duration</h2>
 <p>4h</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.crn.com/news/cloud/the-10-biggest-cloud-outages-of-2022-so-far?page=6">https://www.crn.com/news/cloud/the-10-biggest-cloud-outages-of-2022-so-far?page=6</a></li>
 </ul>]]></summary>
@@ -594,7 +629,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <blockquote>
   <p>4h</p>
 </blockquote>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.zdnet.com/article/aws-goes-down-and-with-it-goes-a-host-of-websites-and-services/">https://www.zdnet.com/article/aws-goes-down-and-with-it-goes-a-host-of-websites-and-services/</a></li>
 </ul>]]></summary>
@@ -610,7 +645,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 </ul>
 <h2 id="duration">Duration</h2>
 <p>6h</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://engineering.fb.com/2021/10/04/networking-traffic/outage/">https://engineering.fb.com/2021/10/04/networking-traffic/outage/</a></li>
 <li><a href="https://twitter.com/jgrahamc/status/1445068309288951820">https://twitter.com/jgrahamc/status/1445068309288951820</a></li>
@@ -693,7 +728,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <li>2 destroyed</li>
 <li>recovery &gt;10days</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.bleepingcomputer.com/news/technology/ovh-data-center-burns-down-knocking-major-sites-offline/">https://www.bleepingcomputer.com/news/technology/ovh-data-center-burns-down-knocking-major-sites-offline/</a></li>
 </ul>
@@ -717,7 +752,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <li>Roku, Adobe, Glassdoor, Autodesk, The Wall Street Journal, 1Password </li>
 <li>Kinesis Data Streams API and other dependent services </li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://techhq.com/2020/12/3-biggest-public-cloud-outages-of-2020/">https://techhq.com/2020/12/3-biggest-public-cloud-outages-of-2020/</a></li>
 </ul>]]></summary>
@@ -733,7 +768,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 </ul>
 <h2 id="duration">Duration</h2>
 <p>3h</p>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://techhq.com/2020/12/3-biggest-public-cloud-outages-of-2020/">https://techhq.com/2020/12/3-biggest-public-cloud-outages-of-2020/</a></li>
 </ul>
@@ -753,7 +788,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <ul>
 <li>FIXME</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://statusgator.com/blog/2020/08/21/5-biggest-outages-of-q2-2020/">https://statusgator.com/blog/2020/08/21/5-biggest-outages-of-q2-2020/</a></li>
 </ul>]]></summary>
@@ -769,7 +804,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <ul>
 <li>cloud down globally</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://statusgator.com/blog/2020/08/21/5-biggest-outages-of-q2-2020/">https://statusgator.com/blog/2020/08/21/5-biggest-outages-of-q2-2020/</a></li>
 </ul>]]></summary>
@@ -789,7 +824,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <ul>
 <li>customers unable to join meetings</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://statusgator.com/blog/2020/08/21/5-biggest-outages-of-q2-2020/">https://statusgator.com/blog/2020/08/21/5-biggest-outages-of-q2-2020/</a></li>
 </ul>]]></summary>
@@ -811,7 +846,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <ul>
 <li>no messages could be sent</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://statusgator.com/blog/2020/08/21/5-biggest-outages-of-q2-2020/">https://statusgator.com/blog/2020/08/21/5-biggest-outages-of-q2-2020/</a></li>
 </ul>
@@ -836,7 +871,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <ul>
 <li>us-east1</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://techhq.com/2020/12/3-biggest-public-cloud-outages-of-2020/">https://techhq.com/2020/12/3-biggest-public-cloud-outages-of-2020/</a></li>
 </ul>]]></summary>
@@ -857,7 +892,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <li>connectivity issues</li>
 <li>10-25% error rate</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://www.cnet.com/news/slack-explains-last-weeks-hours-long-outage/">https://www.cnet.com/news/slack-explains-last-weeks-hours-long-outage/</a></li>
 </ul>]]></summary>
@@ -878,7 +913,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <ul>
 <li>Google, AWS, Reddit, Netflix, Cloudflare customers</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://slate.com/technology/2019/06/verizon-dqe-outage-internet-cloudflare-reddit-aws.html">https://slate.com/technology/2019/06/verizon-dqe-outage-internet-cloudflare-reddit-aws.html</a></li>
 </ul>]]></summary>
@@ -902,7 +937,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <li>G-Suite, Gmail, Google Docs, Google Drive, Google Cloud, YouTube</li>
 <li>Vimeo, Shopify, Discord, Snapchat</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://techhq.com/2019/08/what-we-learned-from-google-clouds-june-outage/">https://techhq.com/2019/08/what-we-learned-from-google-clouds-june-outage/</a></li>
 </ul>
@@ -929,7 +964,7 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <ul>
 <li>all customers shut off to prevent unprivileged data access</li>
 </ul>
-<h2 id="media">Media</h2>
+<h2 id="sources">Sources</h2>
 <ul>
 <li><a href="https://techhq.com/2019/05/salesforce-hit-by-15-hour-downtime/">https://techhq.com/2019/05/salesforce-hit-by-15-hour-downtime/</a></li>
 <li><a href="https://www.crn.com/slide-shows/cloud/6-things-to-know-about-the-latest-salesforce-outage">https://www.crn.com/slide-shows/cloud/6-things-to-know-about-the-latest-salesforce-outage</a></li>
