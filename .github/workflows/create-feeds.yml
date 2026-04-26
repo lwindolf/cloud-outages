@@ -1,0 +1,30 @@
+name: create-feed
+
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        
+      - name: update
+        env:
+                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+                sudo apt install nodejs npm
+                npm i feed
+                npm i showdown
+                node .github/workflows/build.js
+
+                git config user.email "noreply@example.com"
+                git config user.name "Create Feed Workflow"
+                git commit -m "Update feed." feed.atom || exit 0
+                git push
+
