@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/lwindolf/cloud-outages</id>
     <title>Cloud Outages</title>
-    <updated>2026-04-26T21:55:31.799Z</updated>
+    <updated>2026-04-26T21:57:12.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/lwindolf/cloud-outages"/>
     <subtitle>Recent major cloud outages. New additions to the 10+ years outage index.</subtitle>
@@ -35,7 +35,7 @@
         <updated>2026-02-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
-<li>"The event began following a power interruption affecting one of the datacenters within the region, after which impact manifested as infrastructure availability loss and service disruptions across multiple dependent workloads in the region." <a href="https://azure.status.microsoft/en-us/status/history/">^3</a></li>
+<li>"The event began following a power interruption affecting one of the datacenters within the region, after which impact manifested as infrastructure availability loss and service disruptions across multiple dependent workloads in the region."</li>
 </ul>
 <h2 id="impact">Impact</h2>
 <ul>
@@ -44,8 +44,12 @@
 </ul>
 <h2 id="duration">Duration</h2>
 <p>20h</p>
-<p>[^1]: <a href="https://www.youtube.com/watch?v=p_HKW7qbwXs&list=PLmsFUfdnGr3xomlYbZPAYTtFdkcvbv2ye&index=3">https://www.youtube.com/watch?v=p_HKW7qbwXs&list=PLmsFUfdnGr3xomlYbZPAYTtFdkcvbv2ye&index=3</a>
-[^2]: MS tracking id "_SVS-5_G"</p>]]></summary>
+<h2 id="links">Links</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=p_HKW7qbwXs&list=PLmsFUfdnGr3xomlYbZPAYTtFdkcvbv2ye&index=3">https://www.youtube.com/watch?v=p_HKW7qbwXs&list=PLmsFUfdnGr3xomlYbZPAYTtFdkcvbv2ye&index=3</a></li>
+<li>MS tracking id "_SVS-5_G"</li>
+<li><a href="https://azure.status.microsoft/en-us/status/history/">https://azure.status.microsoft/en-us/status/history/</a></li>
+</ul>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-12-05 Cloudflare]]></title>
