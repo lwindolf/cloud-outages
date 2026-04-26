@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/lwindolf/cloud-outages</id>
     <title>Cloud Outages</title>
-    <updated>2026-04-26T21:52:48.151Z</updated>
+    <updated>2026-04-26T21:55:31.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/lwindolf/cloud-outages"/>
     <subtitle>Recent major cloud outages. New additions to the 10+ years outage index.</subtitle>
@@ -13,7 +13,7 @@
         <updated>2026-02-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
-<li>BYOIP Prefix Mass Deletion Outage <a href="https://blog.cloudflare.com/cloudflare-outage-february-20-2026/">^1</a></li>
+<li>BYOIP Prefix Mass Deletion Outage</li>
 <li>missing empty check on filter parameter</li>
 <li>A buggy automated cleanup task attempted to delete BYOIP prefixes.</li>
 </ul>
@@ -23,7 +23,10 @@
 </ul>
 <h2 id="duration">Duration</h2>
 <p>5h</p>
-<h2 id="links">Links</h2>]]></summary>
+<h2 id="links">Links</h2>
+<ul>
+<li><a href="https://blog.cloudflare.com/cloudflare-outage-february-20-2026/">https://blog.cloudflare.com/cloudflare-outage-february-20-2026/</a></li>
+</ul>]]></summary>
     </entry>
     <entry>
         <title type="html"><![CDATA[2026-02-07 Microsoft Azure]]></title>
