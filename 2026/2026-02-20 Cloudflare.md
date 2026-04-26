@@ -12,6 +12,6 @@
 
 5h
 
-## Links
+## Sources
 
 - https://blog.cloudflare.com/cloudflare-outage-february-20-2026/

@@ -11,6 +11,6 @@ unclear
 - "significant subset of users"
 - Google Docs
 
-## Media
+## Sources
 
 - https://www.crn.com/slide-shows/cloud/300097151/the-10-biggest-cloud-outages-of-2017?page=11

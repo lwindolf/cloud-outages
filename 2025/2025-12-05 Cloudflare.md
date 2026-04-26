@@ -10,6 +10,6 @@
 
 25min
 
-## Links
+## Sources
 
 - https://blog.cloudflare.com/5-december-2025-outage/

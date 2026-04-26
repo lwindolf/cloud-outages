@@ -4,7 +4,7 @@
 - 2 destroyed
 - recovery >10days
 
-## Media
+## Sources
 
 - https://www.bleepingcomputer.com/news/technology/ovh-data-center-burns-down-knocking-major-sites-offline/
 

@@ -1,13 +1,13 @@
 ## Root Cause
 
-- "a networking issue impacting a portion of the Teams service" \[2]
+- "a networking issue impacting a portion of the Teams service"
 
 ## Duration
 
 2,5h
 
-## Media
+## Sources
 
-- \[1] https://www.cbsnews.com/news/microsoft-teams-outages-block-limit-user-access/
-- \[2] https://x.com/MSFT365Status/status/1750923016408531454?s=20
+- https://www.cbsnews.com/news/microsoft-teams-outages-block-limit-user-access/
+- https://x.com/MSFT365Status/status/1750923016408531454?s=20
 

@@ -10,7 +10,7 @@ software update
 
 Google Search, Google Maps globally unavailable
 
-## Media
+## Sources
 
 - https://www.networkworld.com/article/971832/top-10-outages-of-2022.html
 

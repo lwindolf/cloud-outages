@@ -11,6 +11,6 @@ fire after cooling system water pipe leak
 - Cloud region europe-west-9 was offline (one day)
 - Zone europe-west-9-a was offline (two weeks)
 
-## Media
+## Sources
 
 - https://status.cloud.google.com/incidents/dS9ps52MUnxQfyDGPfkY

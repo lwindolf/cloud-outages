@@ -10,6 +10,6 @@ data center outage + high availability did not work
 
 Cloudflare control panel and analytics outage
 
-## Media
+## Sources
 
 - https://blog.cloudflare.com/post-mortem-on-cloudflare-control-plane-and-analytics-outage/

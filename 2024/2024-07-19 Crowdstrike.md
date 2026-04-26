@@ -11,6 +11,6 @@ Crowdstrike agent downloading new update and causing a reboot loop.
 
 - hours to days due to the need to recover affected end user systems manually
 
-## Media
+## Sources
 
-- \[1] [https://arstechnica.com/information-technology/2024/07/major-outages-at-crowdstrike-microsoft-leave-the-world-with-bsods-and-confusion/](https://arstechnica.com/information-technology/2024/07/major-outages-at-crowdstrike-microsoft-leave-the-world-with-bsods-and-confusion/)
+- [https://arstechnica.com/information-technology/2024/07/major-outages-at-crowdstrike-microsoft-leave-the-world-with-bsods-and-confusion/](https://arstechnica.com/information-technology/2024/07/major-outages-at-crowdstrike-microsoft-leave-the-world-with-bsods-and-confusion/)

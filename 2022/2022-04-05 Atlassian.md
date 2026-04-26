@@ -12,7 +12,7 @@ Confluence, OpsGenie, JIRA Status page, and other Atlassian Cloud services
 
 ">14days for some customers"
 
-## Media
+## Sources
 
 - https://www.atlassian.com/engineering/april-2022-outage-update
 - https://newsletter.pragmaticengineer.com/p/scoop-atlassian?s=r

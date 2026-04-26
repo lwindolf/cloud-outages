@@ -1,16 +1,18 @@
 ## Root Cause
 
-- faulty configuration replicated globally [^2]
+- faulty configuration replicated globally
 
 ## Impact
 
 - global
-- services affected: Cloudflare Sites and Services (Access, Bot Management, CDN/Cache, Dashboard, Firewall, Network, WARP, Workers) [^1]
+- services affected: Cloudflare Sites and Services (Access, Bot Management, CDN/Cache, Dashboard, Firewall, Network, WARP, Workers)
 - ChatGPT, X, many websites
 
 ## Duration
 
 9,5h
 
-[^1]: https://www.cloudflarestatus.com/incidents/8gmgl950y3h7
-[^2]: https://blog.cloudflare.com/18-november-2025-outage/
+## Sources
+
+- https://www.cloudflarestatus.com/incidents/8gmgl950y3h7
+- https://blog.cloudflare.com/18-november-2025-outage/

@@ -10,6 +10,6 @@ performance problems in DNS-based load management
 
 OCI Vault, API Gateway, Oracle Digital Assistant and OCI Search with OpenSearch
 
-## Media
+## Sources
 
 - https://www.networkworld.com/article/3688509/oracle-outages-serve-as-warning-for-companies-relying-on-cloud-technology.html
