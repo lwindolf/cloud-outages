@@ -2,10 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/lwindolf/cloud-outages</id>
     <title>Cloud Outages</title>
-    <updated>2026-04-26T22:20:19.768Z</updated>
+    <updated>2026-05-05T22:12:21.954Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/lwindolf/cloud-outages"/>
     <subtitle>Recent major cloud outages. New additions to the 10+ years outage index.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[2026-05-05 DENIC]]></title>
+        <id>https://github.com/lwindolf/cloud-outages/2026/2026/2026-05-05 DENIC.md</id>
+        <link href="https://github.com/lwindolf/cloud-outages/2026/2026/2026-05-05 DENIC.md"/>
+        <updated>2026-05-05T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
+<ul>
+<li>DNSSEC not working suddenly?</li>
+</ul>
+<h2 id="duration">Duration</h2>
+<p>~21:30 until …</p>
+<blockquote>
+  <p>5h</p>
+</blockquote>
+<h2 id="impact">Impact</h2>
+<p>all DNSSEC signed .de domains affected</p>
+<h2 id="media">Media</h2>
+<ul>
+<li><a href="https://www.reddit.com/r/de_EDV/comments/1t4qlrg/psa_die_dezone_l%C3%B6st_gerade_gro%C3%9Ffl%C3%A4chig_nicht_mehr/">https://www.reddit.com/r/de_EDV/comments/1t4qlrg/psa_die_dezone_l%C3%B6st_gerade_gro%C3%9Ffl%C3%A4chig_nicht_mehr/</a></li>
+</ul>]]></summary>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2026-02-20 Cloudflare]]></title>
         <id>https://github.com/lwindolf/cloud-outages/2026/2026/2026-02-20 Cloudflare.md</id>
@@ -945,30 +966,6 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
 <ul>
 <li><a href="https://www.google.com/appsstatus">https://www.google.com/appsstatus</a></li>
 <li><a href="https://status.cloud.google.com/incident/cloud-networking/19009">https://status.cloud.google.com/incident/cloud-networking/19009</a></li>
-</ul>]]></summary>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2019-05-18 Salesforce]]></title>
-        <id>https://github.com/lwindolf/cloud-outages/2019/2019/2019-05-18 Salesforce.md</id>
-        <link href="https://github.com/lwindolf/cloud-outages/2019/2019/2019-05-18 Salesforce.md"/>
-        <updated>2019-05-18T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
-<ul>
-<li>internal DB update script messed up user privileges (making them too open)</li>
-</ul>
-<h2 id="duration">Duration</h2>
-<ul>
-<li>~15h</li>
-</ul>
-<h2 id="impact">Impact</h2>
-<ul>
-<li>all customers shut off to prevent unprivileged data access</li>
-</ul>
-<h2 id="sources">Sources</h2>
-<ul>
-<li><a href="https://techhq.com/2019/05/salesforce-hit-by-15-hour-downtime/">https://techhq.com/2019/05/salesforce-hit-by-15-hour-downtime/</a></li>
-<li><a href="https://www.crn.com/slide-shows/cloud/6-things-to-know-about-the-latest-salesforce-outage">https://www.crn.com/slide-shows/cloud/6-things-to-know-about-the-latest-salesforce-outage</a></li>
-<li><a href="https://www.datacenterdynamics.com/opinions/salesforce-database-outage-why-it-happened-and-how-prevent-another-one/">https://www.datacenterdynamics.com/opinions/salesforce-database-outage-why-it-happened-and-how-prevent-another-one/</a></li>
 </ul>]]></summary>
     </entry>
 </feed>
