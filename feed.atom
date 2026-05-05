@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/lwindolf/cloud-outages</id>
     <title>Cloud Outages</title>
-    <updated>2026-05-05T22:12:21.954Z</updated>
+    <updated>2026-05-05T22:33:09.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/lwindolf/cloud-outages"/>
     <subtitle>Recent major cloud outages. New additions to the 10+ years outage index.</subtitle>
@@ -16,9 +16,9 @@
 <li>DNSSEC not working suddenly?</li>
 </ul>
 <h2 id="duration">Duration</h2>
-<p>~21:30 until …</p>
+<p>~21:30 until ~0:30</p>
 <blockquote>
-  <p>5h</p>
+  <p>3h</p>
 </blockquote>
 <h2 id="impact">Impact</h2>
 <p>all DNSSEC signed .de domains affected</p>
