@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/lwindolf/cloud-outages</id>
     <title>Cloud Outages</title>
-    <updated>2026-05-06T13:05:15.455Z</updated>
+    <updated>2026-05-08T18:49:58.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/lwindolf/cloud-outages"/>
     <subtitle>Recent major cloud outages. New additions to the 10+ years outage index.</subtitle>
@@ -13,7 +13,7 @@
         <updated>2026-05-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
-<li>DNSSEC not working suddenly?</li>
+<li>DNSSEC key rotation was faulty</li>
 </ul>
 <h2 id="duration">Duration</h2>
 <p>~21:30 until ~3:30
@@ -23,6 +23,7 @@
 <h2 id="media">Media</h2>
 <ul>
 <li><a href="https://www.reddit.com/r/de_EDV/comments/1t4qlrg/psa_die_dezone_l%C3%B6st_gerade_gro%C3%9Ffl%C3%A4chig_nicht_mehr/">https://www.reddit.com/r/de_EDV/comments/1t4qlrg/psa_die_dezone_l%C3%B6st_gerade_gro%C3%9Ffl%C3%A4chig_nicht_mehr/</a></li>
+<li><a href="https://www.heise.de/news/DNS-Probleme-mit-de-Domains-DENIC-liefert-erste-Erklaerung-11288197.html">https://www.heise.de/news/DNS-Probleme-mit-de-Domains-DENIC-liefert-erste-Erklaerung-11288197.html</a></li>
 </ul>]]></summary>
     </entry>
     <entry>
