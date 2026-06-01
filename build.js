@@ -19,7 +19,7 @@ function createFeeds() {
                         title       : "Cloud Outages",
                         description : "Recent major cloud outages. New additions to the 10+ years outage index.",
                         link        : "https://github.com/lwindolf/cloud-outages",
-                        input       : path.join(import.meta.dirname, "../.."),
+                        input       : path.join(import.meta.dirname, "."),
                         output      : "feed.atom"
                 }
         ].forEach((f) => {
