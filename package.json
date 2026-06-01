@@ -2,5 +2,8 @@
   "dependencies": {
     "feed": "^5.2.1",
     "showdown": "^2.1.0"
+  },
+  "scripts": {
+    "build": "node build.js"
   }
 }
