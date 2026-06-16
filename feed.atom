@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://codeberg.org/lwindolf/cloud-outages</id>
     <title>Cloud Outages</title>
-    <updated>2026-06-01T10:04:29.982Z</updated>
+    <updated>2026-06-16T20:20:54.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://codeberg.org/lwindolf/cloud-outages"/>
     <subtitle>Recent major cloud outages. New additions to the 10+ years outage index.</subtitle>
     <entry>
         <title type="html"><![CDATA[2026-05-05 DENIC]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2026/2026/2026-05-05 DENIC.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2026/2026/2026-05-05 DENIC.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2026/2026-05-05 DENIC.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2026/2026-05-05 DENIC.md"/>
         <updated>2026-05-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -28,8 +28,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2026-02-20 Cloudflare]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2026/2026/2026-02-20 Cloudflare.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2026/2026/2026-02-20 Cloudflare.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2026/2026-02-20 Cloudflare.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2026/2026-02-20 Cloudflare.md"/>
         <updated>2026-02-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -50,8 +50,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2026-02-07 Microsoft Azure]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2026/2026/2026-02-07 Microsoft Azure.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2026/2026/2026-02-07 Microsoft Azure.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2026/2026-02-07 Microsoft Azure.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2026/2026-02-07 Microsoft Azure.md"/>
         <updated>2026-02-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -73,8 +73,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-12-05 Cloudflare]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-12-05 Cloudflare.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-12-05 Cloudflare.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025-12-05 Cloudflare.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025-12-05 Cloudflare.md"/>
         <updated>2025-12-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
@@ -93,8 +93,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-11-18 Cloudflare]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-11-18 Cloudflare.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-11-18 Cloudflare.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025-11-18 Cloudflare.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025-11-18 Cloudflare.md"/>
         <updated>2025-11-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -116,8 +116,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-10-20 AWS]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-10-20 AWS.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-10-20 AWS.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025-10-20 AWS.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025-10-20 AWS.md"/>
         <updated>2025-10-20T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -143,8 +143,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-07-09 Outlook]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-07-09 Outlook.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-07-09 Outlook.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025-07-09 Outlook.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025-07-09 Outlook.md"/>
         <updated>2025-07-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
@@ -165,8 +165,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-06-15 Heroku]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-06-15 Heroku.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-06-15 Heroku.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025-06-15 Heroku.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025-06-15 Heroku.md"/>
         <updated>2025-06-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -181,8 +181,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-06-12 Google Cloud]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-06-12 Google Cloud.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-06-12 Google Cloud.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025-06-12 Google Cloud.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025-06-12 Google Cloud.md"/>
         <updated>2025-06-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
@@ -207,8 +207,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-05-24 X]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-05-24 X.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-05-24 X.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025-05-24 X.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025-05-24 X.md"/>
         <updated>2025-05-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -223,8 +223,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2025-01-08 Microsoft Azure]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-01-08 Microsoft Azure.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025/2025-01-08 Microsoft Azure.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2025/2025-01-08 Microsoft Azure.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2025/2025-01-08 Microsoft Azure.md"/>
         <updated>2025-01-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -239,8 +239,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2024-07-19 Crowdstrike]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-07-19 Crowdstrike.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-07-19 Crowdstrike.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024-07-19 Crowdstrike.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024-07-19 Crowdstrike.md"/>
         <updated>2024-07-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>Crowdstrike agent downloading new update and causing a reboot loop.</p>
@@ -260,8 +260,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[2024-07-18 Microsoft Azure]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-07-18 Microsoft Azure.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-07-18 Microsoft Azure.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024-07-18 Microsoft Azure.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024-07-18 Microsoft Azure.md"/>
         <updated>2024-07-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h1 id="root-cause">Root Cause</h1>
 <p><em>Between 21:40 UTC on 18 July 2024 and 12:15 UTC on 19 July 2024, customers may have experienced issues with multiple Azure 
@@ -283,8 +283,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2024-05-02 Google Cloud]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-05-02 Google Cloud.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-05-02 Google Cloud.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024-05-02 Google Cloud.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024-05-02 Google Cloud.md"/>
         <updated>2024-05-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>?</p>
@@ -303,8 +303,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2024-04-08 Rackspace]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-04-08 Rackspace.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-04-08 Rackspace.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024-04-08 Rackspace.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024-04-08 Rackspace.md"/>
         <updated>2024-04-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>?</p>
@@ -321,8 +321,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2024-01-26 Microsoft Teams]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-01-26 Microsoft Teams.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024/2024-01-26 Microsoft Teams.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2024/2024-01-26 Microsoft Teams.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2024/2024-01-26 Microsoft Teams.md"/>
         <updated>2024-01-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -338,8 +338,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-11-02 Cloudflare]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-11-02 Cloudflare.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-11-02 Cloudflare.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023-11-02 Cloudflare.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023-11-02 Cloudflare.md"/>
         <updated>2023-11-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>data center outage + high availability did not work</p>
@@ -354,8 +354,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-07-05 Azure]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-07-05 Azure.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-07-05 Azure.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023-07-05 Azure.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023-07-05 Azure.md"/>
         <updated>2023-07-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>fiber cut caused by severe weather conditions in the Netherlands</p>
@@ -371,8 +371,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-06-13 AWS-us-east1]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-06-13 AWS-us-east1.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-06-13 AWS-us-east1.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023-06-13 AWS-us-east1.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023-06-13 AWS-us-east1.md"/>
         <updated>2023-06-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <p>Service degradation of 104 AWS services (that where using AWS Lambda)</p>
@@ -387,8 +387,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-04-25 GCP-europe-west-9]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-04-25 GCP-europe-west-9.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-04-25 GCP-europe-west-9.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023-04-25 GCP-europe-west-9.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023-04-25 GCP-europe-west-9.md"/>
         <updated>2023-04-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>fire after cooling system water pipe leak</p>
@@ -406,8 +406,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-04-07 SpaceX]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-04-07 SpaceX.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-04-07 SpaceX.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023-04-07 SpaceX.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023-04-07 SpaceX.md"/>
         <updated>2023-04-07T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <p>No connection</p>
@@ -422,8 +422,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-03-09 Datadog]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-03-09 Datadog.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-03-09 Datadog.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023-03-09 Datadog.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023-03-09 Datadog.md"/>
         <updated>2023-03-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>automatic OS update takes network down</p>
@@ -438,8 +438,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-02-16 GCP]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-02-16 GCP.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-02-16 GCP.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023-02-16 GCP.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023-02-16 GCP.md"/>
         <updated>2023-02-16T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>network update caused traffic disruption</p>
@@ -454,8 +454,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-02-13 Oracle OCI]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-02-13 Oracle OCI.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-02-13 Oracle OCI.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023-02-13 Oracle OCI.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023-02-13 Oracle OCI.md"/>
         <updated>2023-02-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>performance problems in DNS-based load management</p>
@@ -470,8 +470,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2023-01-25 Microsoft Teams]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-01-25 Microsoft Teams.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023/2023-01-25 Microsoft Teams.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2023/2023-01-25 Microsoft Teams.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2023/2023-01-25 Microsoft Teams.md"/>
         <updated>2023-01-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>network configuration error</p>
@@ -487,8 +487,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-12-05 AWS US East2]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-12-05 AWS US East2.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-12-05 AWS US East2.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022-12-05 AWS US East2.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022-12-05 AWS US East2.md"/>
         <updated>2022-12-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>unclear</p>
@@ -503,8 +503,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-10-25 Whatsapp]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-10-25 Whatsapp.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-10-25 Whatsapp.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022-10-25 Whatsapp.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022-10-25 Whatsapp.md"/>
         <updated>2022-10-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>backend application service failure</p>
@@ -519,8 +519,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-09-15 Zoom]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-09-15 Zoom.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-09-15 Zoom.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022-09-15 Zoom.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022-09-15 Zoom.md"/>
         <updated>2022-09-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>unclear</p>
@@ -535,8 +535,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-08-09 Google Search+Maps]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-08-09 Google Search+Maps.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-08-09 Google Search+Maps.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022-08-09 Google Search+Maps.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022-08-09 Google Search+Maps.md"/>
         <updated>2022-08-09T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>software update</p>
@@ -551,8 +551,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-07-08 AWS US East2 AZ1]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-07-08 AWS US East2 AZ1.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-07-08 AWS US East2 AZ1.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022-07-08 AWS US East2 AZ1.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022-07-08 AWS US East2 AZ1.md"/>
         <updated>2022-07-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>power failure</p>
@@ -567,8 +567,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-06-21 Cloudflare]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-06-21 Cloudflare.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-06-21 Cloudflare.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022-06-21 Cloudflare.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022-06-21 Cloudflare.md"/>
         <updated>2022-06-21T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p><em>A change to the network configuration in those locations caused an outage</em> [1]</p>
@@ -583,8 +583,8 @@ and connectivity or availability of services. Services with dependencies on the 
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-04-05 Atlassian]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-04-05 Atlassian.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-04-05 Atlassian.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022-04-05 Atlassian.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022-04-05 Atlassian.md"/>
         <updated>2022-04-05T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>global scale orchestration human error, instead of shutting down component
@@ -602,8 +602,8 @@ Confluence, OpsGenie, JIRA Status page, and other Atlassian Cloud services</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-03-01 Apple]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-03-01 Apple.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-03-01 Apple.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022-03-01 Apple.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022-03-01 Apple.md"/>
         <updated>2022-03-01T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>DNS problems</p>
@@ -618,8 +618,8 @@ Confluence, OpsGenie, JIRA Status page, and other Atlassian Cloud services</p>
     </entry>
     <entry>
         <title type="html"><![CDATA[2022-02-22 Slack]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-02-22 Slack.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022/2022-02-22 Slack.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2022/2022-02-22 Slack.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2022/2022-02-22 Slack.md"/>
         <updated>2022-02-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>Quote from Slack status page: <em>A configuration change inadvertently lead to a sudden 
@@ -638,8 +638,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-12-08 AWS]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-12-08 AWS.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-12-08 AWS.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021-12-08 AWS.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021-12-08 AWS.md"/>
         <updated>2021-12-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
@@ -656,8 +656,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-10-04 Facebook]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-10-04 Facebook.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-10-04 Facebook.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021-10-04 Facebook.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021-10-04 Facebook.md"/>
         <updated>2021-10-04T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
@@ -675,8 +675,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-06-08 Fastly]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-06-08 Fastly.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-06-08 Fastly.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021-06-08 Fastly.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021-06-08 Fastly.md"/>
         <updated>2021-06-08T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
@@ -699,8 +699,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-05-11 Salesforce]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-05-11 Salesforce.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-05-11 Salesforce.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021-05-11 Salesforce.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021-05-11 Salesforce.md"/>
         <updated>2021-05-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
@@ -719,8 +719,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-03-23 quay.io]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-03-23 quay.io.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-03-23 quay.io.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021-03-23 quay.io.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021-03-23 quay.io.md"/>
         <updated>2021-03-23T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
@@ -739,8 +739,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2021-03-10 OVH SBG Datacenters]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-03-10 OVH SBG Datacenters.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021/2021-03-10 OVH SBG Datacenters.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2021/2021-03-10 OVH SBG Datacenters.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2021/2021-03-10 OVH SBG Datacenters.md"/>
         <updated>2021-03-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="impact">Impact</h2>
 <ul>
@@ -759,8 +759,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-11-26 AWS]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-11-26 AWS.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-11-26 AWS.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020-11-26 AWS.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020-11-26 AWS.md"/>
         <updated>2020-11-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <p>??</p>
@@ -779,8 +779,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-08-24 Zoom]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-08-24 Zoom.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-08-24 Zoom.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020-08-24 Zoom.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020-08-24 Zoom.md"/>
         <updated>2020-08-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -799,8 +799,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-06-29 Github]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-06-29 Github.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-06-29 Github.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020-06-29 Github.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020-06-29 Github.md"/>
         <updated>2020-06-29T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="duration">Duration</h2>
 <p>2h</p>
@@ -815,8 +815,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-06-10 IBM Cloud]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-06-10 IBM Cloud.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-06-10 IBM Cloud.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020-06-10 IBM Cloud.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020-06-10 IBM Cloud.md"/>
         <updated>2020-06-10T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="duration">Duration</h2>
 <p>several hours</p>
@@ -831,8 +831,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-05-17 Zoom]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-05-17 Zoom.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-05-17 Zoom.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020-05-17 Zoom.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020-05-17 Zoom.md"/>
         <updated>2020-05-17T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -851,8 +851,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-05-12 Slack]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-05-12 Slack.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-05-12 Slack.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020-05-12 Slack.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020-05-12 Slack.md"/>
         <updated>2020-05-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -878,8 +878,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2020-03-03 Azure]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-03-03 Azure.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020/2020-03-03 Azure.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2020/2020-03-03 Azure.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2020/2020-03-03 Azure.md"/>
         <updated>2020-03-03T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -898,8 +898,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2019-07-18 Slack]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2019/2019/2019-07-18 Slack.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2019/2019/2019-07-18 Slack.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2019/2019-07-18 Slack.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2019/2019-07-18 Slack.md"/>
         <updated>2019-07-18T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -919,8 +919,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2019-06-24 Verizon]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2019/2019/2019-06-24 Verizon.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2019/2019/2019-06-24 Verizon.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2019/2019-06-24 Verizon.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2019/2019-06-24 Verizon.md"/>
         <updated>2019-06-24T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>
@@ -940,8 +940,8 @@ the affected databases failed to serve incoming requests to connect to Slack.</e
     </entry>
     <entry>
         <title type="html"><![CDATA[2019-06-02 GCP Outage]]></title>
-        <id>https://codeberg.org/lwindolf/cloud-outages/2019/2019/2019-06-02 GCP Outage.md</id>
-        <link href="https://codeberg.org/lwindolf/cloud-outages/2019/2019/2019-06-02 GCP Outage.md"/>
+        <id>https://codeberg.org/lwindolf/cloud-outages/2019/2019-06-02 GCP Outage.md</id>
+        <link href="https://codeberg.org/lwindolf/cloud-outages/2019/2019-06-02 GCP Outage.md"/>
         <updated>2019-06-02T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[<h2 id="root-cause">Root Cause</h2>
 <ul>

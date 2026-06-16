@@ -41,8 +41,8 @@ function createFeeds() {
                                 title   : dateStr + " " + (m?.groups?.title || ''),
                                 date    : dateStr ? new Date(dateStr) : new Date(),
                                 content : converter.makeHtml(cleanedContent),
-                                link    : f.link + '/' + year + '/' + file,
-                                id      : f.link + '/' + year + '/' + file
+                                link    : f.link + '/' + file,
+                                id      : f.link + '/' + file
                         };
                 })
                 .sort((a, b) => b.date - a.date) // Sort by date descending
